@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="picture">
+    <file>images/anchor.ico</file>
+    <file>images/Close.ico</file>
+    <file>images/Tutorial.png</file>
+    <file>images/configuration.ico</file>
+    <file>images/jisuan.jpg</file>
+    <file>images/material.ico</file>
+    <file>images/report.ico</file>
+    <file>images/Save.ico</file>
+    <file>images/skan.ico</file>
+    <file>images/toolbar.ico</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,4 @@
+print("%s 和 %s 快乐的玩耍..." %(self.name,dog.name))
+
+安装方法：
+pyinstaller -F -w --hidden-import=queue main.py

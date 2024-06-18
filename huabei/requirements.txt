@@ -1,0 +1,10 @@
+statsmodels
+xgboost
+matplotlib
+scikit-learn
+tqdm
+openpyxl
+
+gunicorn
+uwsgi
+
